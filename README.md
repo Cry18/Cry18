@@ -1,16 +1,24 @@
-## Hi there 👋
+# Christian Iervasi
 
-<!--
-**Cry18/Cry18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer based in Salerno, Italy.  
+Currently working as Software Engineer at NTT DATA,
+building and testing REST APIs in a production environment.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack**
+
+`Java` · `Spring Boot` · `Spring Security` · `JPA / Hibernate` · `Apache Maven`  
+`MySQL` · `Docker` · `Git` · `JUnit` · `Mockito`
+
+---
+
+**Featured Project**
+
+[**Essentia**](https://github.com/Cry18/Essentia) — Fragrance catalog web app.  
+Spring Boot backend, MySQL database, Docker Compose setup.  
+Browse fragrances, write reviews, manage personal collections.
+
+---
+
+[LinkedIn](https://linkedin.com/in/christianiervasi) · christianiervasi02@gmail.com
